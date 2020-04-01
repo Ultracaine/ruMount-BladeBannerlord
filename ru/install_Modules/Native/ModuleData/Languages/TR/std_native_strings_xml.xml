@@ -236,27 +236,27 @@
     <string id="PDdh1sBj" text="Название"/>
     <string id="Ph6PhUwX" text="Distance: {DISTANCE} m"/>
     <string id="pHaRIFa8" text="Сначала Заколебались Убивать"/>
-    <string id="PiHpR4QL" text="Одной Рукой"/>
-    <string id="PiLml6Nl" text="Attackers hold the keep flag for 90 seconds before morale or time runs out. Capturing flags will increase morale.{newline}Defenders defend the castle until enemy morale runs out."/>
+    <string id="PiHpR4QL" text="Одноручное"/>
+    <string id="PiLml6Nl" text="Атакующие должны удержывать флаг в течении 90 секунд пока не закончится мараль или время. Захват флага увеличивает мораль.{newline}Защмтники должны удержывать замок до тез пор пока не закончится мараль атакующих."/>
     <string id="Pkw17hO0" text="Боевая Скорость"/>
     <string id="pnUSAxzf" text="Добавить Официальный Список Игровых Серверов "/>
     <string id="pQibMlbA" text="Носом Шишка"/>
     <string id="PuX1G0h3" text="Верхом Мастерства Недостаточно Для Крепления"/>
     <string id="PY6VznGu" text="Ширина Лица"/>
     <string id="Q2EmU0TA" text="Предельная Точка Команды "/>
-    <string id="Q2yjFlC9" text="Держите Огонь"/>
+    <string id="Q2yjFlC9" text="Прекратить Стрельбу"/>
     <string id="q8lsn0U6" text="Возглавить собственный отряд войска в бой в этой команде-пвп режим игры. Контролировать поле боя, чтобы деморализовать команду противника или уничтожить своих сил, чтобы выйти победителем."/>
     <string id="QbkHvWgU" text="Классический Бой"/>
-    <string id="QDU03vOW" text="Delivered {DAMAGE} {DAMAGE_TYPE} damage to object."/>
+    <string id="QDU03vOW" text="Нанесено {DAMAGE} {DAMAGE_TYPE} урона по обьекту."/>
     <string id="qeSbaPWi" text="Количество Ботов Команды 1"/>
     <string id="qF5pJt7e" text="Асимметрия Глаз "/>
-    <string id="Qhl77Oki" text="Assisted to kill {TROOP_NAME}"/>
+    <string id="Qhl77Oki" text="Помошь в убийстве {TROOP_NAME}"/>
     <string id="qKPSlF9L" text="{SHORTCUT} Command"/>
-    <string id="qNga6uPw" text="Повреждений Доставлены"/>
+    <string id="qNga6uPw" text="Урона нанесено"/>
     <string id="qNRc3pXu" text="Заполнить"/>
     <string id="qnxJYAs7" text="Участник"/>
     <string id="QTr6UDAa" text="Остановка"/>
-    <string id="R3BwLVmT" text="Delivered {DAMAGE} {DAMAGE_TYPE} damage."/>
+    <string id="R3BwLVmT" text="Нанесено {DAMAGE} {DAMAGE_TYPE} урона."/>
     <string id="R4Gqskgq" text="Победы"/>
     <string id="R9DiQfax" text="Битва"/>
     <string id="rbYITcao" text="Рот"/>
@@ -268,7 +268,7 @@
     <string id="Sbna6UGb" text="Лицо"/>
     <string id="sBU9vyF1" text="Выстрел в голову!"/>
     <string id="SdxEH6b1" text="Дно Формы Губ "/>
-    <string id="SfJgnzdq" text="Немой"/>
+    <string id="SfJgnzdq" text="Заглушить"/>
     <string id="SN2ojCFr" text="Полная Кожа"/>
     <string id="SNLShTzq" text="Результат"/>
     <string id="SVAmzGRM" text="Бан игрока"/>
@@ -277,12 +277,12 @@
     <string id="Svtb9MQv" text="Дуэль"/>
     <string id="sZxSeeXp" text="Количество Игроков В Конце Прогрева"/>
     <string id="t2Oh6uty" text="Приветственное Сообщение"/>
-    <string id="t78atYqH" text="Двумя Руками"/>
-    <string id="tAeflOpj" text="Received {DAMAGE} {DAMAGE_TYPE} damage."/>
+    <string id="t78atYqH" text="Двухручное"/>
+    <string id="tAeflOpj" text="Полученно {DAMAGE} {DAMAGE_TYPE} урона."/>
     <string id="tAyw51tM" text="Позволит Индивидуальные Баннеры"/>
     <string id="TDy1GZHv" text="Битве"/>
     <string id="tE1VwKTZ" text="Метательный Топор"/>
-    <string id="tewykKdc" text="Направление Управления Блок "/>
+    <string id="tewykKdc" text="Направление Блоком "/>
     <string id="TGaU0hQi" text="Горы"/>
     <string id="tJaRH9he" text="Прикрепить"/>
     <string id="TlP31w8l" text="Bricole"/>
@@ -303,12 +303,12 @@
     <string id="UbMCCh8L" text="Мост Носа "/>
     <string id="uCyQNvq1" text="Лялька"/>
     <string id="uGM8DWrm" text="Гора"/>
-    <string id="UHIZLFBn" text="Killed {TROOP_NAME}"/>
+    <string id="UHIZLFBn" text="Умер {TROOP_NAME}"/>
     <string id="Umb8XsZH" text="Пирс"/>
     <string id="umhwsoqb" text="Выберите нужный войск в начале раунда и для дальнейшего респы с помощью золота."/>
     <string id="uPLRkTZr" text="Отродясь с лучшими войсками из золота в зависимости от успеха в осаде."/>
-    <string id="UQabkhbG" text="Mount charged for {DAMAGE} {DAMAGE_TYPE} damage."/>
-    <string id="UrZvjCfE" text="Your mount received {DAMAGE} {DAMAGE_TYPE} damage."/>
+    <string id="UQabkhbG" text="Лошадь нанесла {DAMAGE} {DAMAGE_TYPE} урона."/>
+    <string id="UrZvjCfE" text="Лошадь получила {DAMAGE} {DAMAGE_TYPE} урона."/>
     <string id="UUKzc88q" text="Зрителем"/>
     <string id="UvIsHvrt" text="Река"/>
     <string id="UwXP9UAR" text="Хорошо"/>
@@ -334,7 +334,7 @@
     <string id="wIgbfqQR" text="Волосы"/>
     <string id="wk4bgkCt" text="Соскок"/>
     <string id="Wl5xazIU" text="Расширить/Сжать Барной Карте "/>
-    <string id="WlVa7XwJ" text="Received {DAMAGE} fall damage."/>
+    <string id="WlVa7XwJ" text="Полученно {DAMAGE} урона от падения."/>
     <string id="WLztEbPL" text="Высота"/>
     <string id="WnN8Ul7A" text="Количество раундов"/>
     <string id="WsbShtMt" text="Десятый Фраг"/>
@@ -347,8 +347,8 @@
     <string id="Xj2FCkQl" text="Список Пользовательских Серверов "/>
     <string id="XpVARRTW" text="Глубокий"/>
     <string id="xq9Vxpyc" text="&lt;a style=&quot;HeadshotTitle.Text&quot; &gt;&lt;b&gt;{TITLE}&lt;/b&gt;&lt;/a&gt;"/>
-    <string id="XQndveFG" text="Дружественный Огонь Урона Собственной"/>
-    <string id="XUKRrgOr" text="Delivered {DAMAGE} {DAMAGE_TYPE} damage to mount."/>
+    <string id="XQndveFG" text="Урон по своим"/>
+    <string id="XUKRrgOr" text="Нанесено {DAMAGE} {DAMAGE_TYPE} урона коню."/>
     <string id="xXQN7Go6" text="Monolid Глаза"/>
     <string id="XZU9SyQW" text="Быстрая Игра"/>
     <string id="XzZFhRwr" text="Вернуться в игру"/>
